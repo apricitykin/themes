@@ -162,15 +162,19 @@
     },
      "plus":{
         "version":"0",
-        "iconpack":"rosiecord-plumpy",
+        "iconpack":"md3",
         "icons":{
-            "ic_new_pins":["#e64553"],
-            "StatusStreaming": ["#7e64fb"],
-          "StatusMobileOnline": ["#09bd63"],
-          "StatusIdle": ["#ffd401"],
-          "StatusDND": ["#ff611a"],
-          "StatusOffline": ["#015bd5"],
-          "StatusOnline": ["#09bd63"]}
+          "ic_new_pins":["#979BF6"],
+          "StatusStreaming": ["#643da7"],
+          "StatusMobileOnline": ["#43b581"],
+          "StatusIdle": ["#faa61a"],
+          "StatusDND": ["#f04747"],
+          "StatusOffline": ["#636b75"],
+          "StatusOnline": ["#43b581"]},
+          "ic_radio_square_checked__overlay": "#FBFBFB"
      },
+    "unreadBadgeColor": "#979BF6",
+    "mentionLineColor": "#979BF6",
+    "customOverlays": true,
     "spec": 2
 }
