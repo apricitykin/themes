@@ -142,10 +142,11 @@
         ]
   }, 
    "rawColors": { 
-     "PRIMARY_600": "#171717 ", 
-     "PRIMARY_630": "#171717 ", 
-     "PRIMARY_660": "#171717 ", 
-     "PRIMARY_700": "#171717 ", 
+     "PRIMARY_500": "#171717",
+     "PRIMARY_600": "#171717", 
+     "PRIMARY_630": "#171717", 
+     "PRIMARY_660": "#171717", 
+     "PRIMARY_700": "#171717", 
      "PRIMARY_800": "#171717", 
      "BRAND_260": "#B2BAE2", 
      "BRAND_360": "#979BF6", 
@@ -159,5 +160,21 @@
         "url": "https://media.discordapp.net/attachments/996426870633545831/1156639147910496337/IMG_6627.jpg",
         "alpha": 1.0
     },
+     "plus":{
+        "version":"0",
+        "iconpack":"md3",
+        "icons":{
+          "ic_new_pins":["#979BF6"],
+          "StatusStreaming": ["#643da7"],
+          "StatusMobileOnline": ["#43b581"],
+          "StatusIdle": ["#faa61a"],
+          "StatusDND": ["#f04747"],
+          "StatusOffline": ["#636b75"],
+          "StatusOnline": ["#43b581"]},
+          "ic_radio_square_checked__overlay": "#FBFBFB"
+     },
+    "unreadBadgeColor": "#979BF6",
+    "mentionLineColor": "#979BF6",
+    "customOverlays": true,
     "spec": 2
 }
