@@ -94,7 +94,7 @@
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#14141f",
-            "hsla(240, 7.7%, 2.5%, 0.48)"
+            "hsla(240, 7.7%, 2.5%, 0.08)"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#45475a",
@@ -142,10 +142,10 @@
         ]
   }, 
    "rawColors": { 
-     "PRIMARY_600": "#171717 ", 
-     "PRIMARY_630": "#171717 ", 
-     "PRIMARY_660": "#171717 ", 
-     "PRIMARY_700": "#171717 ", 
+     "PRIMARY_600": "#171717", 
+     "PRIMARY_630": "#171717", 
+     "PRIMARY_660": "#171717", 
+     "PRIMARY_700": "#171717", 
      "PRIMARY_800": "#171717", 
      "BRAND_260": "#B2BAE2", 
      "BRAND_360": "#979BF6", 
